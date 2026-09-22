@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/vishnuforcode/Dsa/tree/master/0455-assign-cookies) |
 | [0992-subarrays-with-k-different-integers](https://github.com/vishnuforcode/Dsa/tree/master/0992-subarrays-with-k-different-integers) |
 ## Hash Table
 |  |
@@ -17,4 +18,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/vishnuforcode/Dsa/tree/master/0992-subarrays-with-k-different-integers) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/vishnuforcode/Dsa/tree/master/0455-assign-cookies) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/vishnuforcode/Dsa/tree/master/0455-assign-cookies) |
+## Sorting
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/vishnuforcode/Dsa/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/vishnuforcode/Dsa/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
