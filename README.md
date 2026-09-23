@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/vishnuforcode/Dsa/tree/master/0078-subsets) |
 | [0455-assign-cookies](https://github.com/vishnuforcode/Dsa/tree/master/0455-assign-cookies) |
 | [0992-subarrays-with-k-different-integers](https://github.com/vishnuforcode/Dsa/tree/master/0992-subarrays-with-k-different-integers) |
 ## Hash Table
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/vishnuforcode/Dsa/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/vishnuforcode/Dsa/tree/master/0078-subsets) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/vishnuforcode/Dsa/tree/master/0050-powx-n) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/vishnuforcode/Dsa/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
