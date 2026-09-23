@@ -39,6 +39,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/vishnuforcode/Dsa/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/vishnuforcode/Dsa/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/vishnuforcode/Dsa/tree/master/0344-reverse-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/vishnuforcode/Dsa/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/vishnuforcode/Dsa/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/vishnuforcode/Dsa/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
