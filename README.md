@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/vishnuforcode/Dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0992-subarrays-with-k-different-integers](https://github.com/vishnuforcode/Dsa/tree/master/0992-subarrays-with-k-different-integers) |
 ## Sliding Window
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/vishnuforcode/Dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/vishnuforcode/Dsa/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/vishnuforcode/Dsa/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/vishnuforcode/Dsa/tree/master/0344-reverse-string) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/vishnuforcode/Dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/vishnuforcode/Dsa/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/vishnuforcode/Dsa/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/vishnuforcode/Dsa/tree/master/0078-subsets) |
