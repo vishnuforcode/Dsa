@@ -11,11 +11,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vishnuforcode/Dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vishnuforcode/Dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0992-subarrays-with-k-different-integers](https://github.com/vishnuforcode/Dsa/tree/master/0992-subarrays-with-k-different-integers) |
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vishnuforcode/Dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0992-subarrays-with-k-different-integers](https://github.com/vishnuforcode/Dsa/tree/master/0992-subarrays-with-k-different-integers) |
 ## Counting
 |  |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vishnuforcode/Dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vishnuforcode/Dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/vishnuforcode/Dsa/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/vishnuforcode/Dsa/tree/master/0125-valid-palindrome) |
