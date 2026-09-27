@@ -67,10 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vishnuforcode/Dsa/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/vishnuforcode/Dsa/tree/master/0050-powx-n) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vishnuforcode/Dsa/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/vishnuforcode/Dsa/tree/master/0050-powx-n) |
 ## Bit Manipulation
 |  |
@@ -79,5 +81,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vishnuforcode/Dsa/tree/master/0002-add-two-numbers) |
 | [0237-delete-node-in-a-linked-list](https://github.com/vishnuforcode/Dsa/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
