@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/vishnuforcode/Dsa/tree/master/0125-valid-palindrome) |
+| [0234-palindrome-linked-list](https://github.com/vishnuforcode/Dsa/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/vishnuforcode/Dsa/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/vishnuforcode/Dsa/tree/master/0455-assign-cookies) |
 ## Greedy
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/vishnuforcode/Dsa/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/vishnuforcode/Dsa/tree/master/0050-powx-n) |
+| [0234-palindrome-linked-list](https://github.com/vishnuforcode/Dsa/tree/master/0234-palindrome-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -82,6 +84,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vishnuforcode/Dsa/tree/master/0002-add-two-numbers) |
+| [0234-palindrome-linked-list](https://github.com/vishnuforcode/Dsa/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/vishnuforcode/Dsa/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/vishnuforcode/Dsa/tree/master/0328-odd-even-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/vishnuforcode/Dsa/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
