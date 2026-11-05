@@ -11,38 +11,27 @@
  */
 class Solution {
 public:
+
+void solve(TreeNode* root , vector<int>& res ){
+
+    if(root == NULL){
+        return ;
+    }
+
+    if(root ->left){
+        solve(root->left , res);
+    }
+
+    res.push_back(root->val);
+
+    if(root->right){
+        solve(root->right , res);
+    }
+}
     vector<int> inorderTraversal(TreeNode* root) {
-        
-        vector<int> ans ;
-        TreeNode* curr = root ;
 
-        while(curr != NULL){
-            if(curr->left ==  NULL){
-                ans.push_back(curr->val) ;
-                curr = curr->right ;
-            }
-            else{
-                // find ip
-
-                TreeNode* ip = curr->left ;
-
-                while(ip -> right != NULL && ip ->right != curr){
-                    ip = ip->right ;
-                }
-
-
-                if(ip->right == NULL){
-                    ip->right = curr ;
-                    curr = curr->left ;
-                }
-                else {
-                    ip ->right = NULL ;
-                    ans.push_back(curr->val) ;
-                    curr = curr->right ;
-                }
-            }
-        }
-
-        return ans ;
+        vector<int> res ;
+        solve(root , res);
+        return res;
     }
 };
