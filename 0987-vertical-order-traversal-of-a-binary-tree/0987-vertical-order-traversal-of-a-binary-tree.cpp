@@ -11,36 +11,54 @@
  */
 class Solution {
 public:
-    void dfs(TreeNode* root ,int row, int col , vector<tuple<int,int,int>>&nodes ){
-        if(root== NULL) return ;
-
-        nodes.push_back({col,row,root->val});
-
-        dfs(root->left , row+1 , col-1 , nodes);
-        dfs(root->right , row+1 , col+1 , nodes);
-
-    }
     vector<vector<int>> verticalTraversal(TreeNode* root) {
-        if(root == NULL) return {};
-        vector<tuple<int,int,int>>nodes ;
-        dfs(root , 0,0,nodes);
+        if(root == NULL) return {} ;
 
-            sort(nodes.begin(),nodes.end()) ;
+        map<int , map<int , multiset<int>>> nodes ;
 
-            vector<vector<int>>ans ;
-            int prevCol = INT32_MIN ;
+        queue<pair<TreeNode* , pair<int,int>>> q ;
 
-            for(auto& entry : nodes){
-                auto&[col ,row,value] = entry ;
+        q.push({root , {0,0}}) ; 
 
-                if(col != prevCol){
-                    ans.push_back({}) ;
-                    prevCol = col ;
-                }
-                ans.back().push_back(value) ;
+        while(!q.empty()){
+            auto curr = q.front();
+            q.pop() ;
+            TreeNode* node = curr.first ;
+            int col = curr.second.first ;
+            int row = curr.second.second ;
+
+
+            nodes[col][row].insert(node->val) ;
+
+            if(node->left){
+                q.push({node->left , {col-1 , row+1}});
+            }
+            if(node->right){
+                q.push({node->right , {col+1 , row+1}}) ;
             }
 
-            return ans ;
-        
+
+        }
+
+
+        // node is filled now 
+
+        // now map it into ans 
+
+        vector<vector<int>>result ;
+
+        for(auto& column : nodes){
+            vector<int> columnValues ;
+
+            for(auto& rowVal : column.second){
+                for(int vals : rowVal.second){
+                    columnValues.push_back(vals) ;
+                }
+            }
+
+            result.push_back(columnValues); 
+        }
+
+        return result ;
     }
 };
